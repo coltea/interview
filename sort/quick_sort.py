@@ -18,7 +18,6 @@ if __name__ == '__main__':
     print(quick_sort(a))
 
 
-
 def quick_sort(arr):
     """快速排序"""
     if len(arr) <= 1:

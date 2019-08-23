@@ -71,4 +71,4 @@ def jwtauth(handler_class):
         return _execute
 
     handler_class._execute = wrap_execute(handler_class._execute)
-    return handler_clas
+    return handler_class

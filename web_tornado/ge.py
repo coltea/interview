@@ -3,7 +3,7 @@ import tornado.ioloop
 import tornado.web
 import jwt
 import datetime
-from auth import jwtauth
+from web_tornado.auth import jwtauth
 SECRET = 'my_secret_key'
 
 
