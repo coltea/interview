@@ -3,9 +3,9 @@ class TreeNode:
         self.root = root
         self.left = left  # 左子树
         self.right = right  # 右子树
-    def print_node(self):
-        print(self.root, self.left, self.right)
 
+    def print_node(self):
+        print(f"self.root:{self.root}, self.left:{self.left}, self.right:{self.right}")
 
 
 def preTraverse(root):
@@ -40,10 +40,10 @@ if __name__ == '__main__':
     node_c = TreeNode(
         "C", TreeNode("F"), TreeNode("G")
     )
-    node1 = TreeNode("A", node_b, node_c)
-    print(node1)
+    node = TreeNode("A", node_b, node_c)
+    print(node)
     # preTraverse(node1)
-    print(levelOrder(node1))
+    print(levelOrder(node))
 
     # print([node1].pop(0))
     # print([node1].pop(0))

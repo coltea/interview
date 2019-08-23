@@ -9,7 +9,7 @@ import peewee
 # Tb.select().order_by(Tb.id.desc()).get() # 获取最大id
 # Tb.select().join(Tb2, on=(Tb.id == Tb2.id)）.where(Tb.postplatformid == union_id) # join
 # Tb.select().where((Tb.Col1.is_null(True)) | (Tb.Col2 == '')) # or 逻辑
-#
+
 # # fn 函数
 # Tb.select(fn.MAX(TbFashionBiInfo.id)).scalar() # Max id
 # Tb.select(fn.SUM(Tb.Col).alias("Sum_Col")) # SUM 统计某一列总和

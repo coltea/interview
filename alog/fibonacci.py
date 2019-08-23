@@ -8,7 +8,7 @@ def fibonacci(n):
     if n <= 2:
         return lt[:n]
     for i in range(2, n):
-        lt.append(lt[i-1]+lt[i-2])
+        lt.append(lt[i - 1] + lt[i - 2])
     return lt
 
 
