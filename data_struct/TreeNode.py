@@ -7,30 +7,22 @@ class TreeNode:
     def print_node(self):
         print(f"self.root:{self.root}, self.left:{self.left}, self.right:{self.right}")
 
-
-def preTraverse(root):
-    if root is None:
-        return
-    print(root.value)
-    preTraverse(root.left)
-    preTraverse(root.right)
-
-
-def levelOrder(root):
-    res = []
-    if root is None:
-        return res
-    queue = [root]
-    while queue:
-        for i in range(len(queue)):
-            print(queue, len(queue))
-            node = queue.pop(0)
-            res.append(node.root)
-            if node.left:
-                queue.append(node.left)
-            if node.right:
-                queue.append(node.right)
-    return res
+    @staticmethod
+    def level_order(root):
+        res_lt, queue = [], [root]
+        if not root.root:
+            return res_lt
+        while queue:
+            for i in range(len(queue)):
+                print(len(queue), queue)
+                node = queue.pop(0)
+                if node.root:
+                    res_lt.append(node.root)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+        return res_lt
 
 
 if __name__ == '__main__':
@@ -43,7 +35,7 @@ if __name__ == '__main__':
     node = TreeNode("A", node_b, node_c)
     print(node)
     # preTraverse(node1)
-    print(levelOrder(node))
+    print(TreeNode.level_order(node))
 
     # print([node1].pop(0))
     # print([node1].pop(0))
