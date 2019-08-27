@@ -37,7 +37,7 @@ print(level_order(node1))
 
 def level_order(root):
     order_res = []
-    queue =[root]
+    queue = [root]
     while queue:
         for i in range(len(queue)):
             i = queue.pop(0)

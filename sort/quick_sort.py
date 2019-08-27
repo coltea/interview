@@ -13,25 +13,22 @@ def quick_sort(lt):
     return quick_sort(left_lt) + [mid] + quick_sort(right_lt)
 
 
-
 def qs(lt):
-    left_lt, right_lt = [],[]
+    left_lt, right_lt = [], []
     if len(lt) <= 1:
         return lt
-    mid = lt[len(lt)//2]
+    mid = lt[len(lt) // 2]
     lt.remove(mid)
     for i in lt:
         if i > mid:
             right_lt.append(i)
         else:
             left_lt.append(i)
-    return qs(left_lt)+[mid]+qs(right_lt)
+    return qs(left_lt) + [mid] + qs(right_lt)
 
 
 if __name__ == '__main__':
     a = [1, 909, 4, 656, 54, 2, 2, 909]
-
-
 
 # def quick_sort(arr):
 #     """快速排序"""
