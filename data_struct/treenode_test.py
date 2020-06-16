@@ -48,4 +48,5 @@ def level_order(root):
                 queue.append(i.right)
     return order_res
 
+
 print(level_order(node1))

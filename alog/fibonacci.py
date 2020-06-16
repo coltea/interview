@@ -14,3 +14,7 @@ def fibonacci(n):
 
 if __name__ == '__main__':
     print(fibonacci(100))
+    # lt = [1, 1]
+    # n = 10
+    # res = [lt[i - 1] + lt[i - 2] for i in range(n-2)]
+    # print(res)
