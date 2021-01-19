@@ -29,9 +29,4 @@ def qs(lt):
 
 if __name__ == '__main__':
     a = [1, 909, 4, 656, 54, 2, 2, 909]
-
-
-def qs(lt):
-    l_lt, r_lt = [], []
-    if len(lt) <= 1:
-        return lt
+    print(qs(a))

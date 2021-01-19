@@ -2,6 +2,7 @@
 全排列
 """
 
+
 def permute(nums):
     def backtrack(ori_lt, tmp_lt):
         if len(ori_lt) == 0:

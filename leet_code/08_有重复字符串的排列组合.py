@@ -1,24 +1,29 @@
-class Solution:
-    def permutation(self, S: str):
-        dic = {}
-        for s in S:
-            dic[s] = dic.get(s, 0) + 1
-        res = []
+"""
+全排列
+"""
 
-        def generate(curStr: str):
-            if sum(dic.values()) == 0:
-                res.append(curStr)
-            for char, num in dic.items():
-                if num != 0:
-                    dic[char] -= 1
-                    generate(curStr + char)
-                    dic[char] += 1  # 恢复现场
 
-        generate("")
-        return res
+def permute(nums):
+    n = len(nums)
+    res = []
+
+    def backTrack(mark, temp_list):
+        if len(mark) == n:
+            res.append(temp_list)
+
+        for j in range(0, n):
+            if j in mark:
+                continue
+            if j > 0 and nums[j] == nums[j - 1] and j - 1 not in mark:  # 去重，
+                continue
+            backTrack(mark + [j], temp_list + [nums[j]])
+
+    backTrack([], [])
+    return res
 
 
 if __name__ == '__main__':
-    s = Solution()
-    res = s.permutation("qwefs")
+    # res = permute([1, 2, 3])
+    res = permute([1, 1, 2])
+    # res = permute([2, 1])20
     print(res)

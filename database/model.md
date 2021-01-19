@@ -1,0 +1,1 @@
+python3 -m pwiz -e mysql -H localhost -p 3306 -u root -P  interview-sort > test_model.py

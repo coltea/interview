@@ -2,6 +2,7 @@
 全排列
 """
 
+
 def permute(nums):
     def backtrack(ori_lt, tmp_lt):
         if len(ori_lt) == 0:
@@ -18,5 +19,6 @@ def permute(nums):
 
 if __name__ == '__main__':
     # res = permute([1, 2, 3])
-    res = permute([1, 2, 3])
+    res = permute([1, 2, 2])
+    # res = permute([2, 1])
     print(res)
