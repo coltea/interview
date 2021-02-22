@@ -8,20 +8,6 @@ class TreeNode:
         print(self.root, self.left, self.right)
 
 
-def level_order(root):
-    res = []
-    queue = [root]
-    while queue:
-        for i in range(len(queue)):
-            node = queue.pop(0)
-            res.append(node.root)
-            if node.left:
-                queue.append(node.left)
-            if node.right:
-                queue.append(node.right)
-    return res
-
-
 node = TreeNode(
     "0",
     TreeNode("1",
@@ -30,5 +16,23 @@ node = TreeNode(
     TreeNode("2",
              TreeNode("5", TreeNode("8"), TreeNode("9")),
              TreeNode("6", TreeNode("10")))
+)
 
-)print(level_order(node))
+
+def preorder_traversal(n: TreeNode):
+    res = []
+    q = [n]
+    while n:
+        res.append(n)
+        q.append(n)
+        if n.left:
+            n = n.left
+        elif n.right:
+            n = n.right
+            # else:
+
+    return res
+
+
+if __name__ == '__main__':
+    preorder_traversal(node)
