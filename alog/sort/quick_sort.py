@@ -17,7 +17,7 @@ def qs(lt):
     left_lt, right_lt = [], []
     if len(lt) <= 1:
         return lt
-    mid = lt[len(lt) // 2]
+    mid = lt[int(len(lt) / 2)]
     lt.remove(mid)
     for i in lt:
         if i > mid:
