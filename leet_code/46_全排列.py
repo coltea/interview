@@ -5,6 +5,7 @@
 
 def permute(nums):
     def backtrack(ori_lt, tmp_lt):
+        print(ori_lt,tmp_lt)
         if len(ori_lt) == 0:
             res.append(tmp_lt)
         else:
@@ -18,6 +19,6 @@ def permute(nums):
 
 
 if __name__ == '__main__':
-    # res = permute([1, 2, 3])
+    # res = permute([1, 1, 2])
     res = permute([1, 2, 3])
     print(res)

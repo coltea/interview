@@ -28,6 +28,7 @@ class Solution:
             return -2**31
         return ans
 
+
 if __name__ == '__main__':
     s = Solution()
     r = s.myAtoi("   +0 123")
