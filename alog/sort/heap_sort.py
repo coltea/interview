@@ -41,6 +41,6 @@ def heap_sink(heap, parent_index, max_len):
 
 if __name__ == '__main__':
     # a = [8, 9, 1, 4, 10]
-    a = [5, 9, 2, 6, 7, 10, 4, 3, 1]
+    a = [1, 909, 4, 656, 54, 2, 912, 45]
     heap_sort(a)
     # print(a)

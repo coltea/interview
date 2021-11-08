@@ -18,9 +18,6 @@ def merge(left, right):
     return res
 
 
-
-def
-
 if __name__ == '__main__':
     a = [5, 9, 2, 6, 7]
     print(merge_sort(a))

@@ -12,16 +12,17 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
-        if not head or not head.next:
-            return head
+        # if not head or not head.next:
+        #     return head
         pri_pod = None
 
         while head:
-            next_pod = head.next
-            head.next = pri_pod
+            temp = head.next
 
+            head.next = pri_pod
             pri_pod = head
-            head = next_pod
+
+            head = temp
         return pri_pod
 
 
