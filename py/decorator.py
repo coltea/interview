@@ -29,6 +29,4 @@ def log_time(a=12, b=12122):
 
 
 if __name__ == '__main__':
-    # get_data(1, "ksye", 3)
-
     log_time(12, 12122)
