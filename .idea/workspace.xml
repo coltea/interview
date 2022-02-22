@@ -2,42 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf64e0e-ec1e-4a2d-8533-bbe237994a49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/go/context/通知子goroutine结束.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/goroutine交替打印.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/quickSort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/全排列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/字母映射.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/打球.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/数组传值.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/线程安全读写map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/统计字母个数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/超时控制.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/213_打家劫舍 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/22_括号生成.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/300_最长递增子序列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/322_零钱兑换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/509_斐波那契数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/518_ 零钱兑换||.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/55_跳跃游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/740_删除并获得点数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/746_使用最小花费爬楼梯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/dp/787.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/二叉树/450_删除二叉搜索树中的节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py/thead_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/22_子集2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/118_杨辉三角.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/120_三角形最小路径和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/122_买卖股票的最佳时机2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/16_最接近的三数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/44_跳跃游戏2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/62_不同路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/63_不同路径2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/dp/go_413.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alog/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/alog/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bilibli/字母映射.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibli/字母映射.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/t.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/t.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/206_反转链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/链表/206_反转链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/24_反转链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/链表/24_反转链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/46_全排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/46_全排列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/53_MaximumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/dp/53_最大子序和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/python3.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/dp/1137_第 N 个泰波那契数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/python3.9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/thead.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/dp/198_打家劫舍.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/63_股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/63_股票的最大利润.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/dp/22_括号生成.py" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/dp/22_括号生成.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +95,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.t">
-    <configuration name="300_最长递增子序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16_最接近的三数之和">
+    <configuration name="118_杨辉三角" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/300_最长递增子序列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/118_杨辉三角.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="46_全排列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="120_三角形最小路径和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/46_全排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/120_三角形最小路径和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="122_买卖股票的最佳时机2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_struct/BFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/122_买卖股票的最佳时机2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_最接近的三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/16_最接近的三数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22_括号生成" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leet_code/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_code/dp/22_括号生成.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.t" />
-        <item itemvalue="Python.BFS" />
-        <item itemvalue="Python.46_全排列" />
-        <item itemvalue="Python.300_最长递增子序列" />
-        <item itemvalue="Python.function" />
+        <item itemvalue="Python.16_最接近的三数之和" />
+        <item itemvalue="Python.22_括号生成" />
+        <item itemvalue="Python.120_三角形最小路径和" />
+        <item itemvalue="Python.118_杨辉三角" />
+        <item itemvalue="Python.122_买卖股票的最佳时机2" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +280,9 @@
       <workItem from="1641349949032" duration="120000" />
       <workItem from="1642679002284" duration="1224000" />
       <workItem from="1645082804445" duration="73000" />
+      <workItem from="1645086568429" duration="658000" />
+      <workItem from="1645167143272" duration="11376000" />
+      <workItem from="1645435882619" duration="10936000" />
     </task>
     <servers />
   </component>
@@ -324,116 +303,131 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="-907" key="#Go_SDK" timestamp="1641349772214">
+    <state x="283" y="-907" key="#Go_SDK" timestamp="1645166123213">
       <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state x="283" y="-907" key="#Go_SDK/0.25.1440.787/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1641349772214" />
+    <state x="283" y="-907" key="#Go_SDK/0.25.1440.796/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645166123213" />
     <state x="-103" y="-958" key="#Illuminated_Cloud" timestamp="1641349979623">
       <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="-352" y="-1287" key="#Illuminated_Cloud/0.23.1440.793/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635751105610" />
-    <state x="145" y="96" key="#Illuminated_Cloud/0.23.1440.797@0.23.1440.797" timestamp="1635688697991" />
     <state x="-103" y="-958" key="#Illuminated_Cloud/0.25.1440.787/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1641349979623" />
-    <state width="1292" height="123" key="GridCell.Tab.0.bottom" timestamp="1639366276116">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="334" y="-929" width="1071" height="929" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645167160968">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="334" y="-929" width="1071" height="929" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645167160968" />
+    <state width="1319" height="248" key="GridCell.Tab.0.bottom" timestamp="1645517476863">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1347" height="230" key="GridCell.Tab.0.bottom/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637223720578" />
     <state width="1347" height="229" key="GridCell.Tab.0.bottom/0.23.1440.793/-564.-1417.2560.1417@-564.-1417.2560.1417" timestamp="1637318621011" />
-    <state width="1347" height="110" key="GridCell.Tab.0.bottom/0.23.1440.793/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636451458235" />
     <state width="897" height="229" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1637332440925" />
     <state width="1292" height="198" key="GridCell.Tab.0.bottom/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1638927691814" />
     <state width="1292" height="216" key="GridCell.Tab.0.bottom/0.23.1440.794/-580.-1417.2560.1417@0.23.1440.794" timestamp="1638949351831" />
     <state width="1292" height="317" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1638839210068" />
     <state width="1347" height="230" key="GridCell.Tab.0.bottom/0.23.1440.797/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637199487941" />
     <state width="1366" height="282" key="GridCell.Tab.0.bottom/0.23.1440.797/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637652962720" />
-    <state width="1347" height="311" key="GridCell.Tab.0.bottom/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636104754488" />
     <state width="1347" height="230" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1636988864410" />
     <state width="1347" height="230" key="GridCell.Tab.0.bottom/0.23.1440.800/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637203193436" />
     <state width="1347" height="229" key="GridCell.Tab.0.bottom/0.23.1440.800/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637311958258" />
-    <state width="1347" height="394" key="GridCell.Tab.0.bottom/0.23.1440.800/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635749618369" />
     <state width="1292" height="123" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1639366276116" />
     <state width="1347" height="230" key="GridCell.Tab.0.bottom/0.23.1440.803/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637205393866" />
     <state width="1347" height="231" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1636975655644" />
-    <state width="1292" height="123" key="GridCell.Tab.0.center" timestamp="1639366276115">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1319" height="248" key="GridCell.Tab.0.bottom/0.25.1440.790/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645515369415" />
+    <state width="1319" height="248" key="GridCell.Tab.0.bottom/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645517476863" />
+    <state width="810" height="136" key="GridCell.Tab.0.bottom/0.25.1440.796/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645172478871" />
+    <state width="988" height="285" key="GridCell.Tab.0.bottom/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522452" />
+    <state width="988" height="230" key="GridCell.Tab.0.bottom/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645431771774" />
+    <state width="1319" height="248" key="GridCell.Tab.0.center" timestamp="1645517476861">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1347" height="230" key="GridCell.Tab.0.center/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637223720577" />
     <state width="1347" height="229" key="GridCell.Tab.0.center/0.23.1440.793/-564.-1417.2560.1417@-564.-1417.2560.1417" timestamp="1637318621010" />
-    <state width="1347" height="110" key="GridCell.Tab.0.center/0.23.1440.793/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636451458234" />
     <state width="897" height="229" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1637332440925" />
     <state width="1292" height="198" key="GridCell.Tab.0.center/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1638927691813" />
     <state width="1292" height="216" key="GridCell.Tab.0.center/0.23.1440.794/-580.-1417.2560.1417@0.23.1440.794" timestamp="1638949351830" />
     <state width="1292" height="317" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1638839210067" />
     <state width="1347" height="230" key="GridCell.Tab.0.center/0.23.1440.797/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637199487939" />
     <state width="1366" height="282" key="GridCell.Tab.0.center/0.23.1440.797/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637652962718" />
-    <state width="1347" height="311" key="GridCell.Tab.0.center/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636104754487" />
     <state width="1347" height="230" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1636988864409" />
     <state width="1347" height="230" key="GridCell.Tab.0.center/0.23.1440.800/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637203193435" />
     <state width="1347" height="229" key="GridCell.Tab.0.center/0.23.1440.800/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637311958257" />
-    <state width="1347" height="394" key="GridCell.Tab.0.center/0.23.1440.800/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635749618366" />
     <state width="1292" height="123" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1639366276115" />
     <state width="1347" height="230" key="GridCell.Tab.0.center/0.23.1440.803/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637205393866" />
     <state width="1347" height="231" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1636975655644" />
-    <state width="1292" height="123" key="GridCell.Tab.0.left" timestamp="1639366276115">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1319" height="248" key="GridCell.Tab.0.center/0.25.1440.790/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645515369413" />
+    <state width="1319" height="248" key="GridCell.Tab.0.center/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645517476861" />
+    <state width="810" height="136" key="GridCell.Tab.0.center/0.25.1440.796/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645172478869" />
+    <state width="988" height="285" key="GridCell.Tab.0.center/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522451" />
+    <state width="988" height="230" key="GridCell.Tab.0.center/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645431771773" />
+    <state width="1319" height="248" key="GridCell.Tab.0.left" timestamp="1645517476860">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1347" height="230" key="GridCell.Tab.0.left/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637223720577" />
     <state width="1347" height="229" key="GridCell.Tab.0.left/0.23.1440.793/-564.-1417.2560.1417@-564.-1417.2560.1417" timestamp="1637318621009" />
-    <state width="1347" height="110" key="GridCell.Tab.0.left/0.23.1440.793/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636451458233" />
     <state width="897" height="229" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1637332440925" />
     <state width="1292" height="198" key="GridCell.Tab.0.left/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1638927691812" />
     <state width="1292" height="216" key="GridCell.Tab.0.left/0.23.1440.794/-580.-1417.2560.1417@0.23.1440.794" timestamp="1638949351829" />
     <state width="1292" height="317" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1638839210066" />
     <state width="1347" height="230" key="GridCell.Tab.0.left/0.23.1440.797/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637199487938" />
     <state width="1366" height="282" key="GridCell.Tab.0.left/0.23.1440.797/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637652962717" />
-    <state width="1347" height="311" key="GridCell.Tab.0.left/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636104754487" />
     <state width="1347" height="230" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1636988864409" />
     <state width="1347" height="230" key="GridCell.Tab.0.left/0.23.1440.800/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637203193434" />
     <state width="1347" height="229" key="GridCell.Tab.0.left/0.23.1440.800/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637311958256" />
-    <state width="1347" height="394" key="GridCell.Tab.0.left/0.23.1440.800/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635749618364" />
     <state width="1292" height="123" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1639366276115" />
     <state width="1347" height="230" key="GridCell.Tab.0.left/0.23.1440.803/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637205393865" />
     <state width="1347" height="231" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1636975655644" />
-    <state width="1292" height="123" key="GridCell.Tab.0.right" timestamp="1639366276115">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1319" height="248" key="GridCell.Tab.0.left/0.25.1440.790/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645515369413" />
+    <state width="1319" height="248" key="GridCell.Tab.0.left/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645517476860" />
+    <state width="810" height="136" key="GridCell.Tab.0.left/0.25.1440.796/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645172478869" />
+    <state width="988" height="285" key="GridCell.Tab.0.left/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522450" />
+    <state width="988" height="230" key="GridCell.Tab.0.left/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645431771772" />
+    <state width="1319" height="248" key="GridCell.Tab.0.right" timestamp="1645517476862">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1347" height="230" key="GridCell.Tab.0.right/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637223720578" />
     <state width="1347" height="229" key="GridCell.Tab.0.right/0.23.1440.793/-564.-1417.2560.1417@-564.-1417.2560.1417" timestamp="1637318621010" />
-    <state width="1347" height="110" key="GridCell.Tab.0.right/0.23.1440.793/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636451458235" />
     <state width="897" height="229" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1637332440925" />
     <state width="1292" height="198" key="GridCell.Tab.0.right/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1638927691813" />
     <state width="1292" height="216" key="GridCell.Tab.0.right/0.23.1440.794/-580.-1417.2560.1417@0.23.1440.794" timestamp="1638949351830" />
     <state width="1292" height="317" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1638839210067" />
     <state width="1347" height="230" key="GridCell.Tab.0.right/0.23.1440.797/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637199487940" />
     <state width="1366" height="282" key="GridCell.Tab.0.right/0.23.1440.797/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637652962719" />
-    <state width="1347" height="311" key="GridCell.Tab.0.right/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636104754487" />
     <state width="1347" height="230" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1636988864409" />
     <state width="1347" height="230" key="GridCell.Tab.0.right/0.23.1440.800/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637203193436" />
     <state width="1347" height="229" key="GridCell.Tab.0.right/0.23.1440.800/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637311958257" />
-    <state width="1347" height="394" key="GridCell.Tab.0.right/0.23.1440.800/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635749618368" />
     <state width="1292" height="123" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1639366276115" />
     <state width="1347" height="230" key="GridCell.Tab.0.right/0.23.1440.803/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1637205393866" />
     <state width="1347" height="231" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1636975655644" />
-    <state width="1347" height="359" key="GridCell.Tab.1.bottom" timestamp="1636364771410">
-      <screen x="-481" y="-1417" width="2560" height="1417" />
+    <state width="1319" height="248" key="GridCell.Tab.0.right/0.25.1440.790/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645515369414" />
+    <state width="1319" height="248" key="GridCell.Tab.0.right/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645517476862" />
+    <state width="810" height="136" key="GridCell.Tab.0.right/0.25.1440.796/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645172478870" />
+    <state width="988" height="285" key="GridCell.Tab.0.right/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522452" />
+    <state width="988" height="230" key="GridCell.Tab.0.right/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645431771774" />
+    <state width="1319" height="308" key="GridCell.Tab.1.bottom" timestamp="1645516754930">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1347" height="359" key="GridCell.Tab.1.bottom/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1636364771410" />
-    <state width="1347" height="359" key="GridCell.Tab.1.bottom/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636103115239" />
-    <state width="1347" height="359" key="GridCell.Tab.1.center" timestamp="1636364771409">
-      <screen x="-481" y="-1417" width="2560" height="1417" />
+    <state width="1319" height="308" key="GridCell.Tab.1.bottom/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645516754930" />
+    <state width="988" height="285" key="GridCell.Tab.1.bottom/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522455" />
+    <state width="988" height="285" key="GridCell.Tab.1.bottom/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645426091463" />
+    <state width="1319" height="308" key="GridCell.Tab.1.center" timestamp="1645516754929">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1347" height="359" key="GridCell.Tab.1.center/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1636364771409" />
-    <state width="1347" height="359" key="GridCell.Tab.1.center/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636103115238" />
-    <state width="1347" height="359" key="GridCell.Tab.1.left" timestamp="1636364771409">
-      <screen x="-481" y="-1417" width="2560" height="1417" />
+    <state width="1319" height="308" key="GridCell.Tab.1.center/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645516754929" />
+    <state width="988" height="285" key="GridCell.Tab.1.center/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522454" />
+    <state width="988" height="285" key="GridCell.Tab.1.center/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645426091462" />
+    <state width="1319" height="308" key="GridCell.Tab.1.left" timestamp="1645516754928">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1347" height="359" key="GridCell.Tab.1.left/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1636364771409" />
-    <state width="1347" height="359" key="GridCell.Tab.1.left/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636103115237" />
-    <state width="1347" height="359" key="GridCell.Tab.1.right" timestamp="1636364771410">
-      <screen x="-481" y="-1417" width="2560" height="1417" />
+    <state width="1319" height="308" key="GridCell.Tab.1.left/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645516754928" />
+    <state width="988" height="285" key="GridCell.Tab.1.left/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522453" />
+    <state width="988" height="285" key="GridCell.Tab.1.left/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645426091461" />
+    <state width="1319" height="308" key="GridCell.Tab.1.right" timestamp="1645516754930">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
-    <state width="1347" height="359" key="GridCell.Tab.1.right/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1636364771410" />
-    <state width="1347" height="359" key="GridCell.Tab.1.right/0.23.1440.797/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1636103115238" />
+    <state width="1319" height="308" key="GridCell.Tab.1.right/0.25.1440.793/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645516754930" />
+    <state width="988" height="285" key="GridCell.Tab.1.right/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645433522454" />
+    <state width="988" height="285" key="GridCell.Tab.1.right/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645426091462" />
     <state x="192" y="-934" key="SettingsEditor" timestamp="1641349878184">
       <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
@@ -441,40 +435,60 @@
     <state x="598" y="-911" width="667" height="486" key="find.popup" timestamp="1639014902002">
       <screen x="-580" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="697" y="-911" width="639" height="486" key="find.popup/0.23.1440.793/-481.-1417.2560.1417@-481.-1417.2560.1417" timestamp="1636364382743" />
     <state x="598" y="-911" width="667" height="486" key="find.popup/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1639014902002" />
     <state x="598" y="-911" width="667" height="486" key="find.popup/0.23.1440.794/-580.-1417.2560.1417@0.23.1440.794" timestamp="1638929039230" />
     <state x="598" y="-911" width="667" height="486" key="find.popup/0.23.1440.797/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1637649729374" />
-    <state x="568" y="-911" width="639" height="486" key="find.popup/0.23.1440.807/-610.-1417.2560.1417@-610.-1417.2560.1417" timestamp="1635321351458" />
-    <state x="669" y="-1017" width="670" height="676" key="search.everywhere.popup" timestamp="1638927596722">
-      <screen x="-580" y="-1417" width="2560" height="1417" />
+    <state x="640" y="-757" width="670" height="504" key="search.everywhere.popup" timestamp="1645431396499">
+      <screen x="-297" y="-1055" width="1920" height="1055" />
     </state>
     <state x="669" y="-1017" width="670" height="676" key="search.everywhere.popup/0.23.1440.794/-580.-1417.2560.1417@-580.-1417.2560.1417" timestamp="1638927596722" />
+    <state x="640" y="-757" width="670" height="504" key="search.everywhere.popup/0.25.1440.798/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645428265753" />
+    <state x="640" y="-757" width="670" height="504" key="search.everywhere.popup/0.25.1440.800/-297.-1055.1920.1055@-297.-1055.1920.1055" timestamp="1645431396499" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/interview$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1636351841165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog/sort" />
+    <SUITE FILE_PATH="coverage/interview$53_.coverage" NAME="53_最大子序和 Coverage Results" MODIFIED="1637199476615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
+    <SUITE FILE_PATH="coverage/interview$asynic_t.coverage" NAME="asynic_t Coverage Results" MODIFIED="1637311939660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+    <SUITE FILE_PATH="coverage/interview$22_2.coverage" NAME="22_子集2 Coverage Results" MODIFIED="1645169942452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
+    <SUITE FILE_PATH="coverage/interview$17_.coverage" NAME="17_电话号码的字母组合 Coverage Results" MODIFIED="1636364734530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
+    <SUITE FILE_PATH="coverage/interview$118_.coverage" NAME="118_杨辉三角 Coverage Results" MODIFIED="1645431771762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$122_2.coverage" NAME="122_买卖股票的最佳时机2 Coverage Results" MODIFIED="1645430958106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$168_excel.coverage" NAME="168_excel Coverage Results" MODIFIED="1624960366024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
+    <SUITE FILE_PATH="coverage/interview$1137__N_.coverage" NAME="1137_第 N 个泰波那契数 Coverage Results" MODIFIED="1636514690687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1636988864390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog" />
+    <SUITE FILE_PATH="coverage/interview$322_.coverage" NAME="322_零钱兑换 Coverage Results" MODIFIED="1637199487929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$t__2_.coverage" NAME="t (2) Coverage Results" MODIFIED="1635756905135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog" />
+    <SUITE FILE_PATH="coverage/interview$meger_sort.coverage" NAME="meger_sort Coverage Results" MODIFIED="1635993208720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog/sort" />
+    <SUITE FILE_PATH="coverage/interview$63_2.coverage" NAME="63_不同路径2 Coverage Results" MODIFIED="1645429425121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
     <SUITE FILE_PATH="coverage/interview$class_method.coverage" NAME="class_method Coverage Results" MODIFIED="1637311944687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
     <SUITE FILE_PATH="coverage/interview$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1638927351677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_struct" />
-    <SUITE FILE_PATH="coverage/interview$53_.coverage" NAME="53_最大子序和 Coverage Results" MODIFIED="1637199476615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
     <SUITE FILE_PATH="coverage/interview$thead_lock.coverage" NAME="thead_lock Coverage Results" MODIFIED="1637203193410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
-    <SUITE FILE_PATH="coverage/interview$asynic_t.coverage" NAME="asynic_t Coverage Results" MODIFIED="1637311939660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
-    <SUITE FILE_PATH="coverage/interview$17_.coverage" NAME="17_电话号码的字母组合 Coverage Results" MODIFIED="1636364734530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
     <SUITE FILE_PATH="coverage/interview$function.coverage" NAME="function Coverage Results" MODIFIED="1637311958248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
     <SUITE FILE_PATH="coverage/interview$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1635754321271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog/sort" />
     <SUITE FILE_PATH="coverage/interview$215_K.coverage" NAME="215_数组中的第K个最大元素 Coverage Results" MODIFIED="1636103283296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
     <SUITE FILE_PATH="coverage/interview$46_.coverage" NAME="46_全排列 Coverage Results" MODIFIED="1637652962708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
     <SUITE FILE_PATH="coverage/interview$53_MaximumSubarray.coverage" NAME="53_MaximumSubarray Coverage Results" MODIFIED="1636451458224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
+    <SUITE FILE_PATH="coverage/interview$44_2.coverage" NAME="44_跳跃游戏2 Coverage Results" MODIFIED="1645426219162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$120_.coverage" NAME="120_三角形最小路径和 Coverage Results" MODIFIED="1645432431775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
     <SUITE FILE_PATH="coverage/interview$t.coverage" NAME="t Coverage Results" MODIFIED="1638949351820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/interview$24_.coverage" NAME="24_反转链表 Coverage Results" MODIFIED="1636364472144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
-    <SUITE FILE_PATH="coverage/interview$168_excel.coverage" NAME="168_excel Coverage Results" MODIFIED="1624960366024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code" />
-    <SUITE FILE_PATH="coverage/interview$1137__N_.coverage" NAME="1137_第 N 个泰波那契数 Coverage Results" MODIFIED="1636514690687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
     <SUITE FILE_PATH="coverage/interview$300_.coverage" NAME="300_最长递增子序列 Coverage Results" MODIFIED="1637652573737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
-    <SUITE FILE_PATH="coverage/interview$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1636988864390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog" />
     <SUITE FILE_PATH="coverage/interview$.coverage" NAME="全排列 Coverage Results" MODIFIED="1635757619321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog" />
-    <SUITE FILE_PATH="coverage/interview$322_.coverage" NAME="322_零钱兑换 Coverage Results" MODIFIED="1637199487929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
-    <SUITE FILE_PATH="coverage/interview$t__2_.coverage" NAME="t (2) Coverage Results" MODIFIED="1635756905135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog" />
+    <SUITE FILE_PATH="coverage/interview$22_.coverage" NAME="22_括号生成 Coverage Results" MODIFIED="1645514854616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
     <SUITE FILE_PATH="coverage/interview$21_11_05.coverage" NAME="21-11-05 Coverage Results" MODIFIED="1636973837515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
-    <SUITE FILE_PATH="coverage/interview$meger_sort.coverage" NAME="meger_sort Coverage Results" MODIFIED="1635993208720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alog/sort" />
+    <SUITE FILE_PATH="coverage/interview$16_.coverage" NAME="16_最接近的三数之和 Coverage Results" MODIFIED="1645517476852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
+    <SUITE FILE_PATH="coverage/interview$62_.coverage" NAME="62_不同路径 Coverage Results" MODIFIED="1645428606931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leet_code/dp" />
     <SUITE FILE_PATH="coverage/interview$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1637205344034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
   </component>
 </project>
